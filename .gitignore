@@ -1,0 +1,5 @@
+env/
+decoder/
+gregg-vision-v0.2.1/
+training/
+__pycache__/
